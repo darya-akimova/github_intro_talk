@@ -123,4 +123,10 @@ https://pages.github.com/
 R Blogdown book:
 https://bookdown.org/yihui/blogdown/
 
+Club Website (blog post on this topic to come):
+http://wcmdatascience.com
+
+Our Slack:
+https://wcmdatasciclub.slack.com/
+
 
